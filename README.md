@@ -48,7 +48,7 @@ The server requires a `.env` file in the `server/` directory. Create a file name
 ```env
 OPENAI_API_KEY=your_openai_api_key_here
 OPENAI_MODEL=gpt-5
-PORT=5000 # or any port you prefer
+PORT=3001 # or any port you prefer
 ```
 
 - `OPENAI_API_KEY`: Your OpenAI API key
