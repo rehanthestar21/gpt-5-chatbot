@@ -22,7 +22,7 @@ gpt-5-vibe-coded/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/rehanthestar21/gpt-5-vibe-coded.git
+git clone https://github.com/rehanthestar21/gpt-5-chatbot.git
 cd gpt-5-vibe-coded
 ```
 
