@@ -5,7 +5,7 @@ This project contains a client (frontend) and a server (backend), both using npm
 ## Project Structure
 
 ```
-gpt-5-vibe-coded/
+gpt-5-chatbot/
   client/    # Frontend React app
   server/    # Backend Node.js server
 ```
